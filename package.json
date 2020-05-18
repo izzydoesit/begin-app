@@ -1,0 +1,16 @@
+{
+  "name": "begin-jest-example",
+  "version": "1.0.0",
+  "description": "Begin example: learn JavaScript testing with Node.js and Jest",
+  "scripts": {
+    "start": "npx sandbox",
+    "test": "jest"
+  },
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@architect/sandbox": "^1.9.6",
+    "@begin/data": "^1.2.2",
+    "jest": "^25.2.4",
+    "tiny-json-http": "^7.1.2"
+  }
+}
